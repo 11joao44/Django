@@ -23,3 +23,10 @@ python manage.py runserver
 ```
 
 ## ORM - Mapeamento de Objeto Relacional
+
+**Quando criando um novo modelo**
+```cmd
+python manage.py makemigrations
+>>>
+python manage.py migrate
+```
