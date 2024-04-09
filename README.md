@@ -1,4 +1,4 @@
-# Django
+# Django for TASK EBAC
 
 ## Estrutura de um projeto Django
 
