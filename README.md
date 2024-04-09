@@ -30,3 +30,13 @@ python manage.py makemigrations
 >>>
 python manage.py migrate
 ```
+
+```cmd
+python manage.py createsuperuser
+```
+
+```cmd
+python manage.py shell
+```
+
+![alt text](/image/image3.png)
