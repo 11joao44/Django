@@ -93,3 +93,7 @@ class ArticleListView(ListView):
     def get_queryset(self, **kwargs):
         return Artigo.objects.filter(status='publicado')
 ```
+
+## Configurando Django Templats
+
+![alt text](/image/image6.png)
